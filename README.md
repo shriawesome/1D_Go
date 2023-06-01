@@ -9,7 +9,7 @@
 * `Go` is an abstract stategy board game for two players in which the aim is to surround more terriority than the oponents.
 * The game was invented in China more than 2,500 years ago and is believed to the oldest board game continuosly played to the present day. 
 * The playing pieces are called `stones`, one player uses the white stones and the other black.
-* Interesting point in the history of `Go` is the day when `Deep Mind with the power of AI/ML built a model that defeated the legendary player Lee Sedol(9 Dan)` with a model called [AlphGo Documentary](www.google.com)
+* Interesting point in the history of `Go` is the day when `Deep Mind with the power of AI/ML built a model that defeated the legendary player Lee Sedol(9 Dan)` with a model called [AlphGo Documentary](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi37f-z6aL_AhUMPUQIHecXAmYQwqsBegQILRAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWXuK6gekU1Y&usg=AOvVaw1ut2YdHR1tT2m8lMCd0peW)
 * `Alak` is a 1D version of Go with similar game play.
 
 ## 2. Rules and Simulation for Alak
